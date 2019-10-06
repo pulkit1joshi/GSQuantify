@@ -1,6 +1,6 @@
-# GSQuantify
+# Goldsman Sachs Quantify 2020
 
 These are the codes used during GS Quantify Competition. 
-# ML rank :- 19th
-# Overall Rank :- 38th
-# Total number of students that participated : 484
+### Machine Learning rank :- 19th
+### Overall Rank :- 38th (Quant + Coding + ML)
+### Total number of students that participated : 484
